@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2021.6.9)  9 JUL 2021 03:17
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2021.6.9)  13 NOV 2021 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**../resume.tex
+**resume ../resume resume.tex
 (../resume.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
@@ -723,38 +723,38 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip96
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 53.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 53.
+Package hyperref Info: Option `breaklinks' set `true' on input line 50.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 50.
 
 (./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-3.
+0.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Info: Redefining \microtypecontext on input line 53.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Info: Redefining \microtypecontext on input line 50.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -773,15 +773,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(46.97505pt, 520.3449pt, 46.97505pt)
-* v-part:(T,H,B)=(46.97505pt, 701.01988pt, 46.97505pt)
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=520.3449pt
-* \textheight=701.01988pt
-* \oddsidemargin=-25.29494pt
-* \evensidemargin=-25.29494pt
-* \topmargin=-62.29494pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -799,7 +799,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 50.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -811,19 +811,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count310
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
 
 (./resume.out) (./resume.out)
 \@outlinefile=\write4
 \openout4 = `resume.out'.
 
-\pagenumberwidth=\skip97
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 53.
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <24.88> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 54.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 51.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fontawesomefree' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1038,121 +1035,22 @@ Package microtype Info: Character `\textless ' is missing
 Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\TU/fontawesomebrands/regular/n/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `,' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `:' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `;' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `!' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `?' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `@' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\%' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `*' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `+' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `(' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `)' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textendash ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textemdash ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteleft ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquoteright ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblleft ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquotedblright ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\AE ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `_' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbackslash ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotesinglbase ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotedblbase ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglleft ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglright ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotleft ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotright ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textexclamdown ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquestiondown ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceleft ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textbraceright ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textless ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textgreater ' is missing
-(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 54.
+(Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 54.
+(Font)              <5> on input line 51.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 
  []
 
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 65.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 63.
 Package microtype Info: Character `,' is missing
 (microtype)             in font `\TU/fontawesomefree/solid/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1252,119 +1150,294 @@ Package microtype Info: Character `\textless ' is missing
 Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\TU/fontawesomefree/solid/n/5'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 76.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 76.
-LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <9> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 76.
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <9> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 76.
+LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <10> not available
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 72.
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <12> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 76.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <9> not available
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 72.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 76--76
+Overfull \hbox (10.0pt too wide) in paragraph at lines 72--72
 [][] 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 76--76
+Overfull \hbox (10.0pt too wide) in paragraph at lines 72--72
 []$ 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 83--83
+Overfull \hbox (10.0pt too wide) in paragraph at lines 74--74
 [][] 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 83--83
+Overfull \hbox (10.0pt too wide) in paragraph at lines 82--82
+[][] 
+ []
+
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 82--82
 []$ 
  []
 
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <8> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 93.
-LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <7.50002> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 93.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 92.
 LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <7> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 93.
-LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <6.25002> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 93.
-LaTeX Font Info:    Font shape `TU/lmss/b/n' in size <6> not available
-(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 94.
+(Font)              Font shape `TU/lmss/bx/n' tried instead on input line 92.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/fontawesomefree/solid/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\%' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textendash ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textemdash ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteleft ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquoteright ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblleft ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquotedblright ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbackslash ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceleft ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textbraceright ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textless ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textgreater ' is missing
+(microtype)             in font `\TU/fontawesomebrands/regular/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 125--125
+Overfull \hbox (10.0pt too wide) in paragraph at lines 123--123
 [][] 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 125--125
+Overfull \hbox (10.0pt too wide) in paragraph at lines 123--123
 []$ 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 132--132
+Overfull \hbox (10.0pt too wide) in paragraph at lines 130--130
 [][] 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 132--132
+Overfull \hbox (10.0pt too wide) in paragraph at lines 130--130
 []$ 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 139--139
+Overfull \hbox (10.0pt too wide) in paragraph at lines 137--137
 [][] 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 139--139
+Overfull \hbox (10.0pt too wide) in paragraph at lines 137--137
 []$ 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 146--146
+Overfull \hbox (10.0pt too wide) in paragraph at lines 144--144
 [][] 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 146--146
+Overfull \hbox (10.0pt too wide) in paragraph at lines 144--144
 []$ 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 153--153
+Overfull \hbox (10.0pt too wide) in paragraph at lines 150--150
 [][] 
  []
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 153--153
-[]$ 
- []
-
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 160--160
-[][] 
- []
-
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 160--160
+Overfull \hbox (10.0pt too wide) in paragraph at lines 150--150
 []$ 
  []
 
 [1
 
-]
-Overfull \hbox (10.0pt too wide) in paragraph at lines 167--167
-[][] 
- []
-
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 167--167
-[]$ 
- []
-
-[2] (./resume.aux)
+] (./resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1372,12 +1445,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: DFD55C74098BFC92E7C3E6F4D2AC58E8;340.
  ) 
 Here is how much of TeX's memory you used:
- 23357 strings out of 476919
- 418825 string characters out of 5827675
- 754360 words of memory out of 5000000
- 42891 multiletter control sequences out of 15000+600000
- 405805 words of font info for 58 fonts, out of 8000000 for 9000
+ 23319 strings out of 476919
+ 418160 string characters out of 5827675
+ 751057 words of memory out of 5000000
+ 42863 multiletter control sequences out of 15000+600000
+ 403966 words of font info for 50 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 136i,12n,132p,454b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 136i,11n,132p,468b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (2 pages).
+Output written on resume.pdf (1 page).
