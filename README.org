@@ -1,0 +1,8 @@
+This covers some simple basics to convert the tex file to a pdf
+* Setup
+  install texlive
+  install texlive-fonts-extra
+  install texlive-extra
+  
+* Build the pdf
+  pdflatex resume.tex
