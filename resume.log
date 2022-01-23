@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.27)  22 JAN 2022 12:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.11.27)  23 JAN 2022 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1024,131 +1024,127 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 112.
+(Font)              using `T1/cmss/bx/n' instead on input line 117.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 118.
+(Font)              using `T1/cmss/bx/n' instead on input line 123.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 124.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 124.
+(Font)              using `T1/cmss/bx/n' instead on input line 123.
 
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 124.
+n input line 123.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 124.
+(Font)              using `T1/cmss/bx/n' instead on input line 123.
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 124--124
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 123--123
 [][] 
  []
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 124--124
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 123--123
 []$ 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 131.
+(Font)              using `T1/cmss/bx/n' instead on input line 130.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 131.
+(Font)              using `T1/cmss/bx/n' instead on input line 130.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 131.
+(Font)              using `T1/cmss/bx/n' instead on input line 130.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 131.
+(Font)              using `T1/cmss/bx/n' instead on input line 130.
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 131--131
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 130--130
 [][] 
  []
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 131--131
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 130--130
 []$ 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 137.
+(Font)              using `T1/cmss/bx/n' instead on input line 136.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 137.
+(Font)              using `T1/cmss/bx/n' instead on input line 136.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 137.
+(Font)              using `T1/cmss/bx/n' instead on input line 136.
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 137--137
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 136--136
 [][] 
  []
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 137--137
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 136--136
 []$ 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 144.
+(Font)              using `T1/cmss/bx/n' instead on input line 143.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 144.
+(Font)              using `T1/cmss/bx/n' instead on input line 143.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 144.
+(Font)              using `T1/cmss/bx/n' instead on input line 143.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 144.
+(Font)              using `T1/cmss/bx/n' instead on input line 143.
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 144--144
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 143--143
 [][] 
  []
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 144--144
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 143--143
 []$ 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 150.
+(Font)              using `T1/cmss/bx/n' instead on input line 149.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 150.
+(Font)              using `T1/cmss/bx/n' instead on input line 149.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 150.
+(Font)              using `T1/cmss/bx/n' instead on input line 149.
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 150--150
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 149--149
 [][] 
  []
 
 
-Overfull \hbox (9.99756pt too wide) in paragraph at lines 150--150
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 149--149
 []$ 
  []
 
@@ -1161,7 +1157,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  25441 strings out of 478994
  472597 string characters out of 5864750
- 776864 words of memory out of 5000000
+ 776762 words of memory out of 5000000
  42384 multiletter control sequences out of 15000+600000
  423354 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1182,7 +1178,7 @@ xmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf-dist/fonts/
 type1/public/cm-super/sfsx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm
 -super/sfsx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx2488
 .pfb>
-Output written on resume.pdf (1 page, 220409 bytes).
+Output written on resume.pdf (1 page, 220404 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
